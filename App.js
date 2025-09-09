@@ -10,6 +10,7 @@ return (
     <View style={mascara.cx1}></View>
     <Text style={mascara.titulo}>Suzano</Text>
     <View style={mascara.cx2}></View>
+    <Text>Usando o GitHub Desktop na aula do prof Anselmo</Text>
   </SafeAreaView>
 
   );
